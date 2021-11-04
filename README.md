@@ -1,2 +1,2 @@
-# sobrea
-Painel Técnico sobre PVG
+# Sociedade Brasileira de Engenharia de Avaliações (SOBREA)
+Painel Técnico sobre Planta de Valores Genéricos (PVG)
